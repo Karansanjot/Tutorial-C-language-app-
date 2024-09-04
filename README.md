@@ -9,8 +9,7 @@ https://play.google.com/store/apps/details?id=ru.iiec.cxxdroid
 
 Is app me code karte ho toh thode se rules hai jo follow karne padenge 
 
-1. Default code kuch alag ayega toh aap ye wala code dal dena
-#include <stdio.h>
+1. Default code kuch alag ayega toh aap ye wala code dal dena:-
 
 
        #include <stdio.h>
