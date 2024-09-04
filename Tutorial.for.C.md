@@ -1,4 +1,4 @@
-# Tutorial-C-language-app-
+# Tutorial-C-language-app
 
 ✓C language coding app tutorial:
 
