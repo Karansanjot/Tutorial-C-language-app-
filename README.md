@@ -12,12 +12,16 @@ Is app me code karte ho toh thode se rules hai jo follow karne padenge
 1. Default code kuch alag ayega toh aap ye wala code dal dena
 #include <stdio.h>
 
-int main() {
-    
-    
-    return 0;
-}
 
+       #include <stdio.h>
+
+       int main()
+       {
+           // Remove this comment and start coding here
+
+           return 0;
+       }
+   
 *Because ye app ek modern coding app hai isliye* niche ke rules apply honge👇🏻
 
 2. apko "clrscr ();" or "getch ();" lagane ki jarurat nahi hogi
