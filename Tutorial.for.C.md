@@ -26,7 +26,7 @@ Copy below code:
            return 0;
        }
    
-*Because ye app ek modern coding app hai isliye* niche ke rules apply honge👇🏻
+*Because ye app ek modern coding app hai or hum jisme coding karte hai* "turbo C" *voh thoda sa purana software hai isliye niche ke rules apply honge*👇🏻
 
 2. apko "clrscr ();" or "getch ();" lagane ki jarurat nahi hogi
 
