@@ -2,7 +2,7 @@
 
 ✓C language coding app tutorial:
 
-Jiske jiske pass ghare pe computer ya laptop na ho or unko mobile pe coding karni ho toh mai ek app ki link niche dal raha hu usme C-Language me code kar sakte ho.
+Jiske jiske pass ghare pe computer ya laptop na ho or unko mobile pe coding ki practice karni ho toh mai ek app ki link niche dal raha hu usme C-Language me code kar sakte ho.
 (Suggestions hai baki toh, it's up to you ki apko use karna hai ya phir nahi)
 
 👇🏻👇🏻👇🏻
@@ -33,6 +33,8 @@ Copy below code:
 3. is app me "void main()" likhne ki jagah "int main()" likhna padega
 
 4. "#include<conio.h>" bhi likhne ki jarurat nahi hai
+
+baki sara code same hi rahega jo mam ne sikhaya hai.
 
 Agar kisiko koi doubt ho to mujhe puchh sakte ho.
 
